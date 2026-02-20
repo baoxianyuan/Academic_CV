@@ -80,10 +80,22 @@ sections:
       title: Skills
       text: 
       # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
+      # username: admin
+      items:
+        - description: I master programming in Python for years.
+          icon: python
+          icon_pack: custom
+          name: Python
+        - description: I am proficient in using LaTeX for papers.
+          icon: latex
+          icon_pack: custom
+          name: LaTex
+        - description: Proficient in geographic information tools `ArcGIS`.
+          icon: gis
+          icon_pack: custom
+          name: GIS  
     design:
       columns: '1'
-      view: card
   - block: contact
     id: contact
     content:
