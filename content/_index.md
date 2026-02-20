@@ -75,10 +75,10 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: skills
+  - block: features
     content:
       title: Skills
-      text: ''
+      text: 
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
