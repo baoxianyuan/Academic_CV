@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: 'Copyright © {year} [baoxianyuan.cn](https://baoxianyuan.cn/). All Rights Reserved.'
+    notice: 'Copyright © {year} [baoxianyuan.cn](https://www.baoxianyuan.cn/). All Rights Reserved.'
     license:
       enable: true
       allow_derivatives: false
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/baoxianyuan/Academic_CV'
+    url: 'https://github.com/<username>/<repository>'
     content_dir: content
     branch: main
   avatar:
