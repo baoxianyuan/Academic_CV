@@ -1,8 +1,8 @@
 ---
-title: Coordination mechanism and regulation of the water-sediment-economic system in the Yellow River Basin
-summary: China's Yellow River Basin (YRB) is one of the most anthropogenically altered large river basins worldwide. Therefore, coupling human and natural system studies is crucial to support its sustainability. This project aims at using a social-ecological system framework to deepen our understanding of this complex system.
+title: Coupled Human-Water Systems in Large River Basins
+summary: Understanding how hydrological processes, sediment dynamics, and human activities interact across spatial and temporal scales. This research integrates socio-hydrology, complex systems analysis, and hydrological modeling to support sustainable river basin management, with the Yellow River Basin serving as a representative case study.
 tags:
-  - social-hydrology
+  - Social Hydrology
 date: "2023-09-05T00:00:00Z"
 
 image:
@@ -12,30 +12,32 @@ image:
 
 ## Background
 
-The global environment is under unprecedented pressure due to the strong influence of human activities, and the Earth is entering a new era of the Anthropocene. Understanding the mechanisms of modern environmental change and predicting future trends are at the forefront of Earth system science research. This requires developing a holistic systems approach, coupling natural and human processes and exploring the mechanisms of human-earth system coupling in changing environments. The human-terrestrial system is a complex giant in which the natural geographical environment and human socio-economy interact and feedback. Revealing the evolution of its dynamic, resolving the coupling mechanism of processes, and clarifying the optimal regulation pathways can provide a solid theoretical foundation for regional sustainable development.
+Large river basins are dynamic socio-ecological systems in which hydrological processes and human activities continuously shape one another. Over recent decades, climate change, reservoir regulation, ecological restoration, and rapid socioeconomic development have fundamentally altered the natural water-sediment regime of many rivers. These changes have improved water security and ecosystem services in some regions while introducing new challenges related to environmental resilience, resource allocation, and long-term sustainability.
 
-The Yellow River Basin (YRB) has been influenced by more than 3,000 years of historical development and modern high-intensity economic activities; the spatial linkages between human activities and the resources and environment, and the region’s upper, middle, and lower reaches, are still changing. The river basin is ideal for studying human-water systems in environmental change. Therefore, it is informative to elucidate the mechanism of socio-hydrological system coupling in the YRB, providing fundamental inspiration for water sustainable management worldwide, and promoting the development of earth system science in China through integrated research in the basin.
+The Yellow River Basin provides a representative example of this transformation. Extensive engineering interventions, ecological conservation programs, and institutional reforms have substantially modified the interactions among runoff, sediment transport, and regional development. However, the responses of coupled human-water systems are often nonlinear, delayed, and characterized by complex feedback mechanisms that cannot be fully explained using conventional hydrological approaches alone.
 
-## TimeLine
+This project integrates hydrology, socio-hydrology, complex systems science, and sustainability research to investigate how natural processes and human decisions co-evolve across spatial and temporal scales. By combining data analysis, system modeling, and interdisciplinary methods, the project seeks to improve our understanding of long-term river basin evolution and provide scientific support for adaptive watershed management.
 
-**2023**
+## Goals & Scientific Questions
 
-- I started learning social-hydrology. 
+This research aims to develop an integrated understanding of coupled human–water systems by quantifying the interactions between hydrological processes and socioeconomic dynamics under changing environmental conditions.
 
-**2023**
+Key scientific questions include:
 
-- I participated in a field trip on watershed planning and management.
+- How do hydrological processes, sediment dynamics, and human activities interact across different spatial and temporal scales?
 
-**2025**
+- What feedback mechanisms drive the long-term co-evolution of natural and social systems in regulated river basins?
 
-- I have received a grant from the **Postgraduate Innovation Project of Ningxia University**.
+- How do engineering infrastructure, policy interventions, and climate variability jointly influence the resilience and sustainability of river basin systems?
 
-- I published a review article: [Research status, challenges and prospects of the utilization of Yellow River sediment resources](/publication/bao2025).
+- Can socio-hydrological models effectively capture nonlinear responses, lagged effects, and emergent system behaviors?
+
+- How can interdisciplinary modeling support adaptive water resources management and sustainable development in large river basins?
 
 ## Acknowledgement
 
 This project is funded by:
 
-- National Natural Science Foundation of China
+  - National Natural Science Foundation of China
 
-- Postgraduate Innovation Project of Ningxia University
+  - Postgraduate Innovation Project of Ningxia University

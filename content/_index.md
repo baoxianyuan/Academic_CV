@@ -103,15 +103,15 @@ sections:
       subtitle:
       text:
       # Contact (add or remove contact options as necessary)
-      email: xybao@stu.nxu.edu.cn
+      email: xianyuanbao@gmail.com
       appointment_url: 'https://cal.com/xybao/get-in-touch-with-xianyuan'
       address:
-        street: 450 West Helanshan RD
-        city: Yinchuan
-        region: Ningxia
-        postcode: '750021'
-        country: P.R.China
-        country_code: CN
+        street: 
+        city: 
+        region: 
+        postcode: 
+        country: 
+        country_code: 
       # Automatically link email and phone or display as text?
       autolink: true
     design:

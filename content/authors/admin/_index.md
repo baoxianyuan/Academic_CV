@@ -17,32 +17,33 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master Student
+role: #Master Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Ningxia University
-    url: https://www.nxu.edu.cn/
+  - name: #Ningxia University
+    url: #https://www.nxu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include social-hydrology, basin management, river sediment regulation and computational fluid dynamics.
+bio: A researcher specializing in Coupled Human-Water Systems and sustainable water management.
 
 # Interests to show in About widget
 interests:
   - Social-hydrology
-  - Basin Management
-  - River Sediment Regulation
-  - Computational Fluid dynamics
+  - Hydrological Modeling
+  - Water-Sediment Dynamics
+  - Complex Systems Science
+  - Sustainable Water Resources
 
 # Education to show in About widget
 education:
   courses:
     - course: M.S. of Hydraulic Engineering
       institution: Ningxia University
-      year: 2026
+      year: 2023–2026
     - course: B.S. of Building Environment and Energy Application Engineering
       institution: Zhongyuan University of Technology
-      year: 2022
+      year: 2018–2022
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -91,16 +92,16 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:xybao@stu.nxu.edu.cn'
+    link: 'mailto:xianyuanbao@gmail.com'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=zh-CN&user=YlCClxAAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/baoxianyuan
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Xianyuan-Bao
-  - icon: orcid
-    icon_pack: fab
-    link: https://orcid.org/0009-0002-6028-5901
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -112,10 +113,8 @@ social:
 highlight_name: true
 ---
 
-🎓 I’m a master student at Ningxia University.
+🔍 My research focuses on Coupled Human-Water Systems (CHWS), aiming to understand the co-evolution of hydrological processes and human activities across multiple spatial and temporal scales, with particular interests in hydrological processes, ecosystems, agricultural production, and human societies interact and co-evolve under environmental and socioeconomic change. By integrating hydrological analysis, complex system modeling, process-based simulations, and data-driven approaches, I seek to understand the co-evolutionary processes linking environmental change and human activities, particularly in the Yellow River Basin.
 
-🔍 My research is mainly based on the Yellow River Basin in China, and adopts the theory of system science to reveal the multi-process coupling mechanism and stress effect of water-sediment, ecology-economy in the Yellow River basin system, and determine the core elements and critical thresholds of the steady-state transformation of water-sediment, ecology-economy system in different regions and different development stages.
+<!-- 📚 Learn more about me through the below materials:
 
-📚 Learn more about me through the below materials:
-
-- {{< icon name="download" pack="fas" >}}  {{< staticref "uploads/Bao_CV.pdf" "newtab" >}}Academic CV{{< /staticref >}}: Detailed academic CV.
+- {{< icon name="download" pack="fas" >}}  {{< staticref "uploads/Bao_CV.pdf" "newtab" >}}Academic CV{{< /staticref >}}: Detailed academic CV. -->
